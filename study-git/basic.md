@@ -46,4 +46,3 @@ git config 可以配置用户名和邮箱(告诉git我们的身份),可以从三
 
 10. git commit -adm '...'
 git add 和 git commit 的简写
-
