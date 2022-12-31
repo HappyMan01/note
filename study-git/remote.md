@@ -70,3 +70,12 @@ To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
 ```
 `git push -u origin test` 和上面命相同
+
+- 远程tag
+```git
+# 添加远程tags
+git push --tags
+
+# 删除远程tag
+git push --delete origin tagname  同时也会删除本地tag
+```
