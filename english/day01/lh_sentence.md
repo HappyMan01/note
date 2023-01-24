@@ -54,3 +54,18 @@ happy, I can play soccer(当我高兴的这个状态的时候，我可以踢足�
   >> it代词上文的history,if引导的状语从句，省略了主语和be
    动词
 ```
+3. 非谓语
+一个句子一把只有一个谓语，但是有时候还想要使用动作，那么就要使用非谓语动词的形式
+
+  - 没有逗号
+```text
+I like to use computer having some software; 
+没有逗号的非谓语动词having
+some software 一般修饰前面的名词并且主动关系使用ing形式,如果被动关系使用被动形式
+```
+  - 有逗号
+```text
+I like to do exercise, making me happy；
+有逗号这个非谓语动词就不一定修饰的是前面的名词了
+
+```
