@@ -24,7 +24,49 @@ its workers the most skilled.
 4(11)America and Americans were prosperous 
 beyond the dreams of the Europeans and Asians 
 whose economies the war had destroyed.
+  1It was inevitable that this primacy should have 
+narrowed as other countries grew richer. 
+2Just as inevitably, the retreat from predominance proved painful. 
+3By the mid-1980s Americans had found themselves
+at a loss over their fading industrial competitiveness. 
+4Some huge American industries, such as consumer electronics,
+had shrunk or vanished in the face of foreign competition. 
+5By 1987 there was only one American television maker left, Zenith. 
+6(Now there is none: Zenith was bought by South Korea’s LG 
+Electronics in July.) 
+7(12)Foreign-made cars and textiles were sweeping into 
+the domestic market.   
+America’s machine-tool industry was on the ropes. 
+8For a while it looked as though the making of semiconductors,
+which America had invented and which sat at the heart of the 
+new computer age, was going to be the next casualty.
+  1All of this caused a crisis of confidence. 
+2Americans stopped taking prosperity for granted. 
+3They began to believe that their way of doing business was failing,
+and that their incomes would therefore shortly begin to fall as well.
+4The mid-1980s brought one inquiry after another into 
+the causes of America’s industrial decline. 
+5Their sometimes sensational findings were filled 
+with warnings about the growing competition from overseas.
+  1How things have changed! 
+2In 1995 the United States can look 
+back on five years of solid growth while Japan has been struggling.
+3 ( 14 ) Few Americans attribute this solely to such 
+obvious causes as a devalued dollar or the turning of 
+the business cycle. 4Self-doubt has yielded to blind pride. 
+5“American industry has
+changed its structure, has gone on a diet, has learnt to 
+be more quick-witted,” according to Richard Cavanaugh,
+executive dean of Harvard’s Kennedy School of Government. 
+6“It makes me proud to be an American just to see how our 
+businesses are improving their productivity,” 
+says Stephen Moore of the Cato Institute,
+a think-tank in Washington, DC. 
+7And William Sahlman of the Harvard Business School believes 
+that people will look back on this period as “a golden 
+age of business management in the United States.”
 ```
+
 > 一个历史(介词短语修饰这个history)可能是一个不利条件，
 主干： A history can be a handicap,其他都是修改是附加
 的东西
@@ -68,6 +110,7 @@ some software 一般修饰前面的名词并且主动关系使用ing形式,如�
 I like to do exercise, making me happy；
 有逗号这个非谓语动词就不一定修饰的是前面的名词了
 
+
 ```
 4. 分号
 一般出现分号那么前后都是个完整的句子，但是两者是有关系的，前后都是be动词后面
@@ -82,7 +125,6 @@ its workers the most skilled
 ```text
   I have an apple that is red
   > that 关系代词代替apple 并且是单数使用is
-
 ```
   - 限定性定语从句(没有逗号)
 
@@ -105,7 +147,7 @@ its workers the most skilled
 
  example5: I like this table on which there is a book;
  带介词的定语从句,which代替前面的名词,on which 不能作为成分，后面
- 是一个反正的句子,如：I like this book through which I can learn many
+ 是一个完整的句子,如：I like this book through which I can learn many
  things
 
 ```
@@ -144,5 +186,3 @@ a 对于b是不知所措的
   
 8. find A B / make A(名词) B(n/v/prep/adj)
 如果是n词那么就是发现A是B/让A成为B，其他词就a怎么怎么样
-
-
